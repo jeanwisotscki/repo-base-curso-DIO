@@ -1,2 +1,2 @@
-# repo-base-curso-DIO
+# Cursos Dio
 Repositório base para os cursos da DIO
